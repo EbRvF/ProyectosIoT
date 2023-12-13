@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480941043908",
+    "project_id": "proyectoiot-a7695",
+    "storage_bucket": "proyectoiot-a7695.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480941043908:android:30ae381070b78cb4c79991",
+        "android_client_info": {
+          "package_name": "com.example.proyectoiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpjYYW7wbTQ26CdtQwd7oMHgHA0MjLuyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

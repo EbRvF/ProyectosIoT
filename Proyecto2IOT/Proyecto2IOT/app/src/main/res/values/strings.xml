@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProyectoIOT</string>
+    <string name="account">Account</string>
+    <string name="controller">Controller</string>
+    <string name="devices">Devices</string>
+    <string name="power_off">Power Off</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Controlador" />
+</resources>
